@@ -2,5 +2,5 @@
 Projetos Angular
 <br>
 <ul>
-    <li><a href="app-todo/index.html">app-todo</a></li>
+    <li><a href="app-todo">app-todo</a></li>
 <ul>
